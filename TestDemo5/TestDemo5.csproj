@@ -92,7 +92,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="API Testing\APITest.cs" />
     <Compile Include="API Testing\APITests.cs" />
     <Compile Include="UI Automation\BaseClass\BaseClasses.cs" />
     <Compile Include="UI Automation\POM\HomePage.cs" />
